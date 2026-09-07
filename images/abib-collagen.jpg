@@ -1,0 +1,1 @@
+data:image/jpeg;base64,$(base64 -w 0 /home/openclaw/.openclaw/workspace/shannon-shop/images/abib-collagen.jpg)
