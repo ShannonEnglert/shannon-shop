@@ -16,14 +16,15 @@
         .products { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
         .product-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08); transition: transform 0.2s, box-shadow 0.2s; }
         .product-card:hover { transform: translateY(-4px); box-shadow: 0 4px 20px rgba(0,0,0,0.12); }
-        .product-image { width: 100%; height: 280px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; font-size: 80px; }
+        .product-image { width: 100%; height: 280px; background: #fff; display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 20px; }
+        .product-image img { max-width: 100%; max-height: 100%; object-fit: contain; }
         .product-content { padding: 20px; }
         .product-title { font-size: 1.1em; font-weight: 600; margin-bottom: 15px; color: #262626; min-height: 50px; }
         .shop-button { display: block; width: 100%; padding: 12px; background: #262626; color: white; text-align: center; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background 0.2s; }
         .shop-button:hover { background: #000; }
         footer { text-align: center; margin-top: 60px; padding: 30px; color: #8e8e8e; font-size: 0.9em; }
         .affiliate-notice { background: #f8f8f8; padding: 15px; border-radius: 8px; text-align: center; margin: 30px 0; font-size: 0.9em; color: #666; }
-        @media (max-width: 768px) { h1 { font-size: 1.5em; } .products { grid-template-columns: 1fr; } .product-image { font-size: 60px; } }
+        @media (max-width: 768px) { h1 { font-size: 1.5em; } .products { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -36,18 +37,18 @@
         <section class="category">
             <h2 class="category-title">✨ Beauty & Wellness</h2>
             <div class="products">
-                <div class="product-card"><div class="product-image">👁️</div><div class="product-content"><h3 class="product-title">Abib Vegan Collagen Eye Patches</h3><a href="https://amzn.to/4hfC8pS" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
-                <div class="product-card"><div class="product-image">✨</div><div class="product-content"><h3 class="product-title">Abib Glutathione Kojic Acid Eye Patches</h3><a href="https://amzn.to/4iQgGZJ" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/B01CVXSPBO.01.LZZZZZZZ.jpg" alt="Abib Vegan Collagen Eye Patches"></div><div class="product-content"><h3 class="product-title">Abib Vegan Collagen Eye Patches</h3><a href="https://amzn.to/4hfC8pS" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/B0GMQKFBXY.01.LZZZZZZZ.jpg" alt="Abib Glutathione Kojic Acid Eye Patches"></div><div class="product-content"><h3 class="product-title">Abib Glutathione Kojic Acid Eye Patches</h3><a href="https://amzn.to/4iQgGZJ" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
             </div>
         </section>
         <section class="category">
             <h2 class="category-title">📚 Books</h2>
             <div class="products">
-                <div class="product-card"><div class="product-image">📖</div><div class="product-content"><h3 class="product-title">The Power of TED* (Paperback)</h3><a href="https://amzn.to/466Q9jw" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
-                <div class="product-card"><div class="product-image">⏰</div><div class="product-content"><h3 class="product-title">Buy Back Your Time (Hardcover)</h3><a href="https://amzn.to/4xHFqIf" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
-                <div class="product-card"><div class="product-image">💼</div><div class="product-content"><h3 class="product-title">The Diary of a CEO (Hardcover)</h3><a href="https://amzn.to/4ypvL9s" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
-                <div class="product-card"><div class="product-image">🌟</div><div class="product-content"><h3 class="product-title">Start With Yourself (Hardcover)</h3><a href="https://amzn.to/4cvWAAj" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
-                <div class="product-card"><div class="product-image">💎</div><div class="product-content"><h3 class="product-title">Think and Grow Rich (Paperback)</h3><a href="https://amzn.to/4iWbqDU" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/0996871802.01.LZZZZZZZ.jpg" alt="The Power of TED"></div><div class="product-content"><h3 class="product-title">The Power of TED* (Paperback)</h3><a href="https://amzn.to/466Q9jw" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/059342297X.01.LZZZZZZZ.jpg" alt="Buy Back Your Time"></div><div class="product-content"><h3 class="product-title">Buy Back Your Time (Hardcover)</h3><a href="https://amzn.to/4xHFqIf" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/0593715837.01.LZZZZZZZ.jpg" alt="The Diary of a CEO"></div><div class="product-content"><h3 class="product-title">The Diary of a CEO (Hardcover)</h3><a href="https://amzn.to/4ypvL9s" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/1668085488.01.LZZZZZZZ.jpg" alt="Start With Yourself"></div><div class="product-content"><h3 class="product-title">Start With Yourself (Hardcover)</h3><a href="https://amzn.to/4cvWAAj" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
+                <div class="product-card"><div class="product-image"><img src="https://images-na.ssl-images-amazon.com/images/P/1585424331.01.LZZZZZZZ.jpg" alt="Think and Grow Rich"></div><div class="product-content"><h3 class="product-title">Think and Grow Rich (Paperback)</h3><a href="https://amzn.to/4iWbqDU" target="_blank" rel="noopener" class="shop-button">Shop on Amazon</a></div></div>
             </div>
         </section>
         <footer><p>Follow my journey on Instagram <strong>@itsShannonEnglert</strong></p><p style="margin-top: 10px;">50 Before 50 • Life Unfiltered • Real Recommendations</p></footer>
