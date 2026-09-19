@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Abib Vegan Collagen Eye Patches",
+      "price": null,
+      "category": "Beauty & Personal Care",
+      "amazon_link": "https://amzn.to/4hfC8pS",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 2,
+      "name": "Abib Glutathione Kojic Acid Eye Patches",
+      "price": null,
+      "category": "Beauty & Personal Care",
+      "amazon_link": "https://amzn.to/4iQgGZJ",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 3,
+      "name": "Summer Fridays Jet Lag Eye Patches (15 pairs)",
+      "price": "$50.00",
+      "category": "Beauty & Personal Care",
+      "amazon_link": "https://a.co/d/0c81Vkgy",
+      "date_added": "2026-09-19"
+    },
+    {
+      "id": 4,
+      "name": "The Power of TED* (Paperback)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/466Q9jw",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 5,
+      "name": "Buy Back Your Time (Hardcover)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/4xHFqIf",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 6,
+      "name": "The Diary of a CEO (Hardcover)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/4ypvL9s",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 7,
+      "name": "Start With Yourself (Hardcover)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/4cvWAAj",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 8,
+      "name": "Think and Grow Rich (Paperback)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/4iWbqDU",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 9,
+      "name": "Start with Why (Paperback)",
+      "price": null,
+      "category": "Books",
+      "amazon_link": "https://amzn.to/3VrkMOk",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 10,
+      "name": "YVE LIFE Interactive Cat Toys Laser for Indoor Cats",
+      "price": null,
+      "category": "Pet Supplies",
+      "amazon_link": "https://amzn.to/46n3N28",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 11,
+      "name": "Applaws Fish Variety in Broth Wet Cat Food, 3-Flavor 16-Pack 2.47 oz Cans",
+      "price": null,
+      "category": "Pet Supplies",
+      "amazon_link": "https://amzn.to/4yVU8Mj",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 12,
+      "name": "Nocciola 4 Packs Crinkle Squeaky Dog Toys for Aggressive Chewers",
+      "price": null,
+      "category": "Pet Supplies",
+      "amazon_link": "https://amzn.to/4isA4w2",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 13,
+      "name": "Vital Essentials Freeze Dried Minnows Cat Treats, 1.0 oz Bag",
+      "price": null,
+      "category": "Pet Supplies",
+      "amazon_link": "https://amzn.to/4h3MYy5",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 14,
+      "name": "Qraxond Interactive Cat Toys for Indoor Cats,Automatic Kitten Tunnel Toy",
+      "price": null,
+      "category": "Pet Supplies",
+      "amazon_link": "https://amzn.to/4rcuBM0",
+      "date_added": "2026-09-07"
+    },
+    {
+      "id": 15,
+      "name": "Halloween Spider Web Dog/Cat Mat (23.6\"x15.7\")",
+      "price": "$13.99",
+      "category": "Pet Supplies",
+      "amazon_link": "https://a.co/d/0eI8T67J",
+      "date_added": "2026-09-19"
+    },
+    {
+      "id": 16,
+      "name": "Pumpkin Cat Bed (Orange, 20\")",
+      "price": "$24.98",
+      "category": "Pet Supplies",
+      "amazon_link": "https://a.co/d/03tK2h5R",
+      "date_added": "2026-09-19"
+    },
+    {
+      "id": 17,
+      "name": "JOEJOY Blue Donut Dog Bed (30x30x8in)",
+      "price": "$30.99",
+      "category": "Pet Supplies",
+      "amazon_link": "https://a.co/d/08WzSfB6",
+      "date_added": "2026-09-19"
+    }
+  ],
+  "last_updated": "2026-09-19",
+  "total_products": 17
+}
