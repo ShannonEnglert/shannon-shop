@@ -17,14 +17,6 @@
       "date_added": "2026-09-07"
     },
     {
-      "id": 3,
-      "name": "Summer Fridays Jet Lag Eye Patches (15 pairs)",
-      "price": "$50.00",
-      "category": "Beauty & Personal Care",
-      "amazon_link": "https://a.co/d/0c81Vkgy",
-      "date_added": "2026-09-19"
-    },
-    {
       "id": 4,
       "name": "The Power of TED* (Paperback)",
       "price": null,
@@ -137,6 +129,20 @@
       "date_added": "2026-09-19"
     }
   ],
+  "needs_new_link": [
+    {
+      "id": 3,
+      "name": "Summer Fridays Jet Lag Eye Patches (15 pairs)",
+      "price": "$50.00",
+      "category": "Beauty & Personal Care",
+      "amazon_link": "https://a.co/d/0c81Vkgy",
+      "date_added": "2026-09-19",
+      "issue": "BROKEN LINK - redirects to books instead of eye patches",
+      "flagged_date": "2026-09-19",
+      "action_needed": "Generate fresh affiliate link in Amazon Associates dashboard or remove product"
+    }
+  ],
   "last_updated": "2026-09-19",
-  "total_products": 17
+  "total_products": 16,
+  "broken_links": 1
 }
